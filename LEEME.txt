@@ -1,0 +1,56 @@
+JOSHEP ACADÉMICO — VERSIÓN AMPLIADA
+
+ABRIR
+Extraé todo el ZIP y abrí index.html. No necesitás instalar nada.
+El diseño funciona sin internet. WhatsApp e Instagram sí necesitan conexión.
+
+CONTACTO CONFIGURADO
+WhatsApp: +506 8838 8013
+Instagram: @josephmiranda07
+Los botones llevan a esos contactos. No envían mensajes sin intervención
+del visitante. El usuario revisa la consulta y la envía desde WhatsApp.
+
+FUNCIONES
+- Botones directos de WhatsApp e Instagram y contacto flotante.
+- Tarjeta de contacto .vcf para guardar a Joshep en el teléfono.
+- Formulario con varios servicios, materia, nivel, fecha y modalidad.
+- Resumen de consulta que se actualiza mientras escribís.
+- Validación de campos y bloqueo de fechas pasadas.
+- Envío mediante WhatsApp, copiado y descarga de la consulta como .txt.
+- Enlace alternativo si el navegador bloquea la ventana de WhatsApp.
+- Buscador de preguntas frecuentes (ignora tildes y mayúsculas).
+- Modo claro/oscuro y botón para volver al inicio.
+- Menú adaptable, navegación por teclado y respeto a movimiento reducido.
+
+ARCHIVOS
+index.html: contenido.
+styles.css: estilos y versión para celulares.
+script.js: funciones de la web.
+config.js: contacto para los enlaces dinámicos.
+contacto-joshep.vcf: tarjeta de contacto.
+
+EDICIÓN
+Podés cambiar los textos en index.html y los colores en styles.css.
+Para cambiar el contacto a futuro, actualizá config.js, los enlaces/textos
+de respaldo en index.html y la tarjeta contacto-joshep.vcf.
+
+ALCANCE
+No requiere PHP, bases de datos ni servicios de pago. El formulario no
+almacena datos ni crea reservas. Disponibilidad, modalidad y precio se
+confirman con Joshep. No hay tarifas ni reseñas inventadas.
+Solo se guarda la preferencia de tema en este navegador cuando lo permite.
+Si el portapapeles no funciona localmente, la web selecciona el mensaje
+para que lo copiés de forma manual.
+
+PUBLICAR
+Subí los archivos de esta carpeta a un hosting estático manteniendo los
+nombres. Este ZIP no publica la web automáticamente.
+
+VERSIÓN WHATSAPP DIRECTO
+El número y el Instagram aparecen también al inicio de la página.
+Los botones Pedir por WhatsApp y los servicios abren directamente el chat
+con el número 50688388013, sin exigir completar el formulario.
+El formulario es opcional: permite preparar una solicitud detallada y
+redirige en la misma pestaña al chat con el mensaje listo.
+WhatsApp puede pedir iniciar sesión si el visitante no la tiene iniciada.
+El visitante debe pulsar Enviar dentro de WhatsApp; la web no envía sola.
